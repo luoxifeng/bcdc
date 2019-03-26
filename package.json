@@ -1,0 +1,23 @@
+{
+  "name": "bcdc",
+  "version": "0.0.1",
+  "description": "Use es decorator grammar, Without any dependence, Not managing any state, Bridge connect any modules.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoxifeng/bcdc.git"
+  },
+  "keywords": [
+    "es6 decorator",
+    "connect"
+  ],
+  "author": "guoying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luoxifeng/bcdc/issues"
+  },
+  "homepage": "https://github.com/luoxifeng/bcdc#readme"
+}
