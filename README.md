@@ -15,5 +15,15 @@
 - 作为状态管理库的补充
 
 ## api
+import bcdc from 'bcdc'
+
+const [add,map,remove] = bcdc();
 
 ## 使用
+- 基本
+module1.js
+
+module2.js
+
+
+- 分组
