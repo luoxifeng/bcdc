@@ -21,6 +21,10 @@ const [add,map,remove] = bcdc();
 
 ## 使用
 - 基本
+common.js
+import bcdc from bcdc
+const [add, map,remove] = bcdc();
+
 module1.js
 
 module2.js
