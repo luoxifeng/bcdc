@@ -1,5 +1,5 @@
 # bcdc
-一个超小的状态共享，模块通信库
+一个超小的状态共享，跨任意层级的模块通信库
 
 ## 特性  
 - Use es decorator grammar
